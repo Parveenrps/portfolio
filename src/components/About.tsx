@@ -1,5 +1,5 @@
 import React from 'react';
-import { Code, Atom, Server, Palette, GitBranch, Database, Globe, Cpu } from 'lucide-react';
+import { Code, Atom, Server, Palette, GitBranch, Database, Globe} from 'lucide-react';
 
 const About: React.FC = () => {
   return (
