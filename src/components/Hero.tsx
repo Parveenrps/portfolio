@@ -73,7 +73,7 @@ const Hero: React.FC = () => {
         </div>
         <div className="right md:w-1/2 flex justify-center">
           <img
-            src="/src/assets/hero.jpg"
+            src="/public/images/hero.jpg"
             alt="Parveen Kumar"
             className="shadow-lg w-80 h-85 object-cover rounded-2xl"
           />
